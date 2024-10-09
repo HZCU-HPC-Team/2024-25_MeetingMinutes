@@ -8,26 +8,11 @@
 
 ## 大一
 
-谢许诺 盛亚楠 presentation asst1 asst2
-
 下周 presentation asst3
-
-### Asst 1
-
-配置一个本机能够跑C语言程序的 vscode 环境
-
-IDE 选择 vscode extensions.
-
-### Asst 2
-
-注册一个github账户并登录。
-
-使用 vscode ssh remote extension 连接 HPCT_Server IP: 10.61.190.8，具体的账号密码会私发给各位。
-
 
 ### Asst 3 (extra)
 
-完成1BRC挑战
+完成1BRC挑战, 阅读1,2 两个代码文件
 
 1BRC: [HZCU-HPCT/24fall_1brc: The One Billion Row Challenge using C++ (github.com)](https://github.com/HZCU-HPC-Team/24fall_1brc)
 
@@ -58,10 +43,7 @@ Prefetch: Nuo Xu
 
 硬件资源dcu 了解: Jiawei Lin
 
-### 科研汇报时间  Wed 10 AM
-
-1. 大致浏览 ZJU ARCLAB 发表的相关论文。
-2. 至少选择一篇比较感兴趣的文献并进行精读, 精读前私发给我具体文章。
+ddl: 10月15日
 
 ### Asst 1
 
@@ -69,7 +51,7 @@ Website: [15-418/15-618: Parallel Computer Architecture and Programming, Fall 20
 
 代码仓库: [cmu15418f24/asst1 (github.com)]([HZCU-HPC-Team/24fall_15418 (github.com)](https://github.com/HZCU-HPC-Team/24fall_15418))
 
-两周时间完成
+下一周时间完成asst1 problem1 mandelbrot serial thread version
 
 ## 大三 AI Inference ASC 25 Preliminary
 
@@ -91,10 +73,20 @@ RQ2 vLLM 如何加速当前的LLM推理: Nuo Xu
 
 RQ3 能否在vLLM 框架 用一些其他的加速技术: Chendong shen
 
-RQ4 QWen 2.5 7B 跑起来+ 环境配置: Shenyi Wang 
+RQ6 Hugging Face Transformer 加速比是什么 用一些其他的加速技术 他们有什么其他的加速比:  Chendong Shen
+
+RQ4 QWen 2.5 7B 跑起来+ 环境配置: Shenyi Wang  **Done!**
 
 RQ5 vLLM QWen benchmark infer speed. 你是怎么衡量速度的: Shenyi Wang
 
-RQ6 Hugging Face Transformer 加速比是什么 用一些其他的加速技术 他们有什么其他的加速比:  Chendong Shen
+
+
+Shengyi Wang: deployment &  Benchmark & Fine-tune 
+
+Nuo Xu: 技术解释 
+
+Chen dong Shen: 蒸馏 压缩 量化 尝试 一个 
+
+
 
 ## *下一次例会时间 2024 10 16 18:00 理四 508*
