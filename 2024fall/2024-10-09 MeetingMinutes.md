@@ -1,18 +1,16 @@
-# 2024-09-25 HZCU-HPCT 第二次例会
+# 2024-10-09 HZCU-HPCT 第三次例会
+## Agenda
+- 大一 presentation Asst1, Asst2
+- 大一 Asst3
+- 大二 PRA24 + 许诺
+- 大二 presentation  cmu 15.418 asst1
+- 大三 LLM inference
 
-## 大一 入门
+## 大一
 
-git [git入门教程 · GitBook (nju-projectn.github.io)](https://nju-projectn.github.io/ics-pa-gitbook/ics2022/git.html)
+谢许诺 盛亚楠 presentation asst1 asst2
 
-git game [Learn Git Branching](https://learngitbranching.js.org/?locale=zh_CN)
-
-IDE 选择 vscode ssh remote, c extension... extensions ...
-
-Tutorial: csdn 知乎 博客园  Stackoverflow ... AI Toolkit 使用, Coding assist
-
-梯子 网络代理？ Zhuhan Bao + Shenyi Wang 帮助一下。
-
-了解  **SSH Git**  这两个事情 
+下周 presentation asst3
 
 ### Asst 1
 
@@ -99,4 +97,4 @@ RQ5 vLLM QWen benchmark infer speed. 你是怎么衡量速度的: Shenyi Wang
 
 RQ6 Hugging Face Transformer 加速比是什么 用一些其他的加速技术 他们有什么其他的加速比:  Chendong Shen
 
-## *下一次例会时间 2024 10 09 18:00 理四 508*
+## *下一次例会时间 2024 10 16 18:00 理四 508*
