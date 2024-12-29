@@ -2,7 +2,12 @@
 
 ## 大一
 
-调整参数，尝试运行更高分数
+  1.   上网hpl+hpcg经验贴
+  2.   BLAS库替换
+  3.   HPL，HPCG程序调参
+  4.   编译器（gcc）
+  5.   跑满128
+  6.   Docker.image.comtainer(DockDesktp
 
 ## 大二
 
