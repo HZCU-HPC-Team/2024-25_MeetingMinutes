@@ -17,3 +17,6 @@ This is a repository for storing meeting minutes of HZCU-HPCT in 2024-2025.
 - 2024.12.11 第十二次例会
 - 2024.12.18 第十三次例会
 - 2024.12.25 第十四次例会
+
+### 25 Spring
+- 2025.02.26 第一次例会
